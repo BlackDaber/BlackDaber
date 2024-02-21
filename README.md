@@ -8,6 +8,5 @@ I'm Sergey, 20 years old Software developer from Russia.
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
-<a href="https://vk.com/hronosferka" target="_blank">Vk</a> 
-- https://vk.com/hronosferka
-- https://t.me/Blackdaber
+- <a href="https://vk.com/hronosferka" target="_blank">Vk</a> 
+- <a href="https://t.me/Blackdaber" target="_blank">Telegram</a> 
